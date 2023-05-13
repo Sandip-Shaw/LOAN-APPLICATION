@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+body {
+    margin-top: 14px;
+    margin-left: 323px;
+    margin-right: 323px;
+}
+.company{
+    margin-left: -154px;
+}
+.pdf4date{
+    text-align: right;
+}
+.lender{
+    font-weight: 800;
+    font-size: 12px;
+}
+.mailbody7{
+    margin-top: 46px;
+}
+.logo {
+    text-indent: 0pt;
+    text-align: left;
+    position: absolute;
+    top: 59px;
+}
+
+.s1 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 576;
+    text-decoration: none;
+    font-size: 14pt;
+    padding-top: 1pt;
+    padding-left: 123pt;
+    text-indent: 0pt;
+    text-align: center;
+    padding-top: 1pt;
+    padding-left: 123pt;
+    text-indent: 0pt;
+    text-align: center;
+}
+
+.s2 {
+    color: black;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 7.5pt;
+    margin-left: 142px;
+}
+
+.s3 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 8pt;
+}
+
+.account {
+    text-align: center;
+
+}
+
+.s4 {
+    color: black;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 11.5pt;
+    padding-top: 1pt;
+    padding-bottom: 4pt;
+    padding-left: 123pt;
+    text-indent: 0pt;
+    text-align: center;
+}
+
+.bottolinr {
+    margin-top: -28px;
+}
+
+
+
+p {
+    color: black;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10.5pt;
+    margin: 0pt;
+}
+
+.s6 {
+    color: #B30000;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.s7 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9pt;
+}
+
+.s8 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 8.5pt;
+}
+
+table,
+tbody {
+    vertical-align: top;
+    overflow: visible;
+}
+
+
+
+.s2 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9pt;
+}
+
+.s3 {
+    color: black;
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9.5pt;
+}
+
+p {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10.5pt;
+    margin: 0pt;
+}
+
+
+
+
+
+hr {
+    margin-top: 12px;
+}
+
+.masage {
+    text-align: center;
+}
+
+.dateinput {
+    text-decoration: underline;
+    border: none;
+
+}
+
+.riciver,
+.mailbody1,
+.mailbody2 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.subject {
+    margin-bottom: 12px;
+    margin-top: 12px;
+    font-size: 14px;
+}
+
+.sender {
+    text-align: right;
+}
+
+.ending {
+    margin-top: 46px;
+}
+
+.dateinput {
+    text-decoration: underline;
+    border: none;
+
+}
+
+.to {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+date {
+    text-decoration: underline;
+}
+
+.riciver,
+.mailbody1,
+.mailbody2,
+.mailbody3,
+.mailbody4,
+.mailbody5,
+.mailbody6 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.data {
+    text-align: left;
+}
+/* .data {
+    text-align: left;
+} */
+
+.signature {
+    margin-top: 46px;
+}
+.branch{
+    margin-bottom: 20px;
+}
+.bottomline {
+    margin-top: -24px;
+}
+
+.sender {
+    text-align: left;
+    font-size: 12px;
+}
+
+.sender td {
+    text-decoration: underline;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.sendername {
+    text-align: right;
+    margin-top: 12px;
+}

@@ -1,0 +1,38 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('ledger_entries', function (Blueprint $table) {
+            $table->bigIncrements('id');
+            $table->date('entry_date')->nullable();
+
+            $table->unsignedBigInteger('branch')->nullable();
+            $table->string('description')->nullable();
+            
+            $table->foreign('branch')->references('id')->on('company_branches');
+            
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('ledger_entries');
+    }
+};
